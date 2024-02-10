@@ -18,14 +18,49 @@
 /*ALL CODE BELOW IS FOR THE EASY ROUTE PAGE*/
 
 .firstimaage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: relative;
     text-align: center;
-    color: white;
-
 }
 
 .next1 {
     position: absolute;
     bottom: 8px;
     left: 16px;
+    text-decoration: none;
+    color:white;
 }
+
+        .secondimaage {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            text-align: center;
+        }
+
+        .next2 {
+            position: absolute;
+            bottom: 8px;
+            left: 16px;
+            text-decoration: none;
+            color:white;
+        }
+
+                .thirdimaage {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    position: relative;
+                    text-align: center;
+                }
+
+                .next3 {
+                    position: absolute;
+                    bottom: 8px;
+                    left: 16px;
+                    text-decoration: none;
+                    color:white;
+                }
