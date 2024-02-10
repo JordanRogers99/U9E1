@@ -13,3 +13,19 @@
     align-content: center;
 }
 
+/*ALL CODE BELOW IS FOR THE EASY ROUTE PAGE*/
+/*ALL CODE BELOW IS FOR THE EASY ROUTE PAGE*/
+/*ALL CODE BELOW IS FOR THE EASY ROUTE PAGE*/
+
+.firstimaage {
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+
+.next1 {
+    position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
